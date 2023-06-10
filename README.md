@@ -25,3 +25,4 @@ LM7905                          | 1   | Negative 5 Volts Voltage Regulator
 1K 1/4 watt resistor            | 1   | (Optional) You can use smaller for a brighter LED
 LED                             | 1   | (Optional) Indicator light that -5V is being generated
 
+Gerber files can be found in the [releases](https://github.com/scrapcomputing/voltage-blaster-mini/releases).
